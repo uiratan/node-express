@@ -6,17 +6,19 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon server.js --trace-deprecation"
+    "dev": "nodemon server.js --trace-deprecation",
+    "s": "node swagger.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "swagger-autogen": "^2.23.0"
   },
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^6.9.0",
-    "plato": "^1.7.0"
+    "swagger-ui-express": "^4.6.0"
   }
 }
