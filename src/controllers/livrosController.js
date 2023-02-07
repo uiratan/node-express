@@ -14,13 +14,17 @@ class LivroController {
   static listarLivroPorId = (req, res) => {
     const id = req.params.id;
 
-    livros.findById(id)
+     livros.findById(id)
       .populate('autor', 'nome')
       .exec((err, livros) => {
         if (err) {
-          res.status(400).send({ message: `${err.message} - Id do livro não localizado.` })
+          res.status(400).send({ message: `${err.message} - Id do livro não localizado.` });
         } else {
-          res.status(200).send(livros);
+          if (livros == null) {
+             res.status(400).send({ message: `${id} - Id do livro não localizado.` });
+          } else {
+            res.status(200).send(livros);
+          }
         }
       })
   }
