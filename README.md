@@ -26,7 +26,6 @@ API REST de uma livraria desenvolvida como parte da Formação <a href="https://
 :heavy_check_mark: CRUD de Autores e Livros. <br>
 :heavy_check_mark:  Documentação da API via Swagger em <url-do-projeto>/api-docs
 
-  
 ## Aplicação
 ![image](https://user-images.githubusercontent.com/1513309/217244900-f19e52e0-8b61-4d5b-94a4-3b7b1c0295d7.png)
 
@@ -74,16 +73,18 @@ VSCode
   </p>
 
 ## Acesso ao projeto
-
 Você pode [acessar o código fonte do projeto](https://github.com/uiratan/node-express) ou [baixá-lo](https://github.com/uiratan/node-express/archive/refs/heads/main.zip).
+
+## Requisitos
+* Node
+* MongoDB
   
 ## Abrir e rodar o projeto
+Após baixar o projeto e extraí-lo, execute pelo terminal na pasta gerada:
 
-Após baixar o projeto, pelo `terminal`, rode:
-
-- `Open an Existing Project` (ou alguma opção similar);
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo);
-- Por fim clique em `OK`.
-
+npm install
+npm run dev
+http://localhost:3000/api-docs/
+  
 O `Android Studio` deve executar algumas tasks do *Gradle* para configurar o projeto, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App 🏆 
 
