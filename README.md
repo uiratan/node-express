@@ -82,9 +82,14 @@ Você pode [acessar o código fonte do projeto](https://github.com/uiratan/node-
 ## Abrir e rodar o projeto
 Após baixar o projeto e extraí-lo, execute pelo terminal na pasta gerada:
 
-npm install
-npm run dev
-http://localhost:3000/api-docs/
-  
-O `Android Studio` deve executar algumas tasks do *Gradle* para configurar o projeto, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App 🏆 
+Instalar as dependências do projeto.
+`npm install`
 
+Gerar documentação do swagger.
+`npm run s`
+
+Rodar o projeto localmente.
+`npm run dev`
+
+Acessar a documentação e testes.
+`http://localhost:3000/api-docs/`
