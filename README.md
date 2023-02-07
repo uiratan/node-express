@@ -83,13 +83,18 @@ Você pode [acessar o código fonte do projeto](https://github.com/uiratan/node-
 Após baixar o projeto e extraí-lo, execute pelo terminal na pasta gerada:
 
 Instalar as dependências do projeto.
-`npm install`
+```shell
+  npm install
+```  
 
-Gerar documentação do swagger.
-`npm run s`
+Gerar documentação do swagger e rodar projeto.
+```shell
+  npm run s
+```  
 
-Rodar o projeto localmente.
-`npm run dev`
+Rodar o projeto localmente e atualizar a qualquer mudança no código.
+```shell
+npm run dev
+```
 
-Acessar a documentação e testes.
-`http://localhost:3000/api-docs/`
+Acessar a documentação e testes em <a href="http://localhost:3000/api-docs/">http://localhost:3000/api-docs/</a>
