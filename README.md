@@ -28,7 +28,7 @@ API REST de uma livraria desenvolvida como parte da Formação <a href="https://
 - [ ] Acessar MongoDB via variáveis de ambientes
 - [ ] Segurança com OAuth2
 - [ ] TDD
-- [ ] Deploy
+- [x] Deploy
 
 ## Tecnologias
 <p align="center">
