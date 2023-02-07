@@ -1,6 +1,9 @@
 import app from './src/app.js'
 
 let port = process.env.PORT;
+
+console.log(port);
+
 if (port == null || port == "") {
   port = 3000;
 }
