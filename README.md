@@ -8,8 +8,6 @@
 
 - [TODO](#todo)
 
-- [Aplicação](#aplicação)
-
 - [Tecnologias](#tecnologias)
 
 - [Acesso ao projeto](#acesso-ao-projeto)
@@ -19,6 +17,8 @@
 - [Time](#time)
 
 ## Descrição do Projeto
+![image](https://user-images.githubusercontent.com/1513309/217244900-f19e52e0-8b61-4d5b-94a4-3b7b1c0295d7.png)
+
 API REST de uma livraria desenvolvida como parte da Formação <a href="https://cursos.alura.com.br/formacao-node-js-express">Node.js com Express da Alura</a>, utilizando Node.js com Express para gerenciamento de rotas e MongoDB como banco de dados em nuvem.
 
 `Curso`: <a href="https://cursos.alura.com.br/course/nodejs-api-rest-express-mongodb">Node.js: API Rest com Express e MongoDB</a><br>
@@ -33,9 +33,6 @@ API REST de uma livraria desenvolvida como parte da Formação <a href="https://
 * Segurança com OAuth2
 * TDD
 * Deploy
-
-## Aplicação
-![image](https://user-images.githubusercontent.com/1513309/217244900-f19e52e0-8b61-4d5b-94a4-3b7b1c0295d7.png)
 
 ## Tecnologias
 <p align="center">
