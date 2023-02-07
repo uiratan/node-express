@@ -6,8 +6,6 @@
 
 - [Funcionalidades](#funcionalidades)
 
-- [TODO](#todo)
-
 - [Tecnologias](#tecnologias)
 
 - [Acesso ao projeto](#acesso-ao-projeto)
@@ -25,14 +23,12 @@ API REST de uma livraria desenvolvida como parte da Formação <a href="https://
 `Intrutora`: <a href="https://cursos.alura.com.br/user/jacqueline-r-oliveira">Jacqueline Oliveira</a>
 
 ## Funcionalidades
-:heavy_check_mark: CRUD de Autores e Livros. <br>
-:heavy_check_mark:  Documentação da API via Swagger em <url-do-projeto>/api-docs
-  
-## TODO
-* Acessar MongoDB via variáveis de ambientes
-* Segurança com OAuth2
-* TDD
-* Deploy
+- [x] CRUD de Autores e Livros. <br>
+- [x]  Documentação da API via Swagger em <url-do-projeto>/api-docs
+- [ ] Acessar MongoDB via variáveis de ambientes
+- [ ] Segurança com OAuth2
+- [ ] TDD
+- [ ] Deploy
 
 ## Tecnologias
 <p align="center">
