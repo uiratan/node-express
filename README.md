@@ -4,15 +4,17 @@
 
 - [Funcionalidades](#funcionalidades)
 
+- [TODO](#todo)
+
 - [Aplicação](#aplicação)
 
-- [Tech Stack](#tech-stack)
+- [Tecnologias](#tecnologias)
 
 - [Acesso ao projeto](#acesso-ao-projeto)
 
 - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
-- [Desenvolvedores](#desenvolvedores)
+- [Time](#time)
 
 # :memo: JavaScript REST API <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 
@@ -35,7 +37,7 @@ API REST de uma livraria desenvolvida como parte da Formação <a href="https://
 ## Aplicação
 ![image](https://user-images.githubusercontent.com/1513309/217244900-f19e52e0-8b61-4d5b-94a4-3b7b1c0295d7.png)
 
-## Tech Stack
+## Tecnologias
 <p align="center">
 VSCode
   | 
@@ -104,3 +106,7 @@ npm run dev
 ```
 
 Acessar a documentação e testes em <a href="http://localhost:3000/api-docs/">http://localhost:3000/api-docs/</a>
+
+## Time  
+[<img src="https://avatars.githubusercontent.com/u/1513309?s=400&u=17c724e73879b241655425c84ddba2f7a731817b&v=4" width=115><br><sub>Uiratan Cavalcante</sub>](https://github.com/uiratan/)
+  
