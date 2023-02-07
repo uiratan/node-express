@@ -34,10 +34,23 @@ API REST de uma livraria desenvolvida como parte da Formação <a href="https://
 ## Tecnologias
 <p align="center">
 
-VSCode    | NPM     | Nodemon   | JavaScript | NodeJS | Express | MongoDB | Mongoose | Swagger  | Git       | JSON | Dotenv
-:------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------:
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> | <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> |   <img height="45" src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" /> |    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />   |    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />   |   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> |    <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />   |    <img height="45" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" /> |  <img height="45" src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" />  |   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> |   <img height="45" src="https://www.opc-router.de/wp-content/uploads/2020/08/what-is-json_600x250px.jpg" /> | <img height="45" src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.svg" /> 
-</p>
+Tecnologia | Link 
+-- | --
+ VSCode    | <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> 
+NPM     | <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /> |
+Nodemon   | <img height="45" src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" />
+JavaScript | <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+NodeJS | <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> 
+Express | <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> 
+MongoDB | <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> 
+Mongoose | <img height="45" src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" />
+Swagger  |  <img height="45" src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" />
+Git  | <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> |
+JSON | <img height="45" src="https://www.opc-router.de/wp-content/uploads/2020/08/what-is-json_600x250px.jpg" />
+Dotenv | <img height="45" src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.svg" /> 
+
+<p>
+
 
 ## Acesso ao projeto
 [Projeto rodando (Deploy)](https://infinite-depths-15472.herokuapp.com/api-docs/)<br>
