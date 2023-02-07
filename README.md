@@ -22,9 +22,15 @@ API REST de uma livraria desenvolvida como parte da Formação <a href="https://
 `Curso`: <a href="https://cursos.alura.com.br/course/nodejs-api-rest-express-mongodb">Node.js: API Rest com Express e MongoDB</a><br>
 `Intrutora`: <a href="https://cursos.alura.com.br/user/jacqueline-r-oliveira">Jacqueline Oliveira</a>
 
-## Funcionalidades:
+## Funcionalidades
 :heavy_check_mark: CRUD de Autores e Livros. <br>
 :heavy_check_mark:  Documentação da API via Swagger em <url-do-projeto>/api-docs
+  
+## TODO
+* Acessar MongoDB via variáveis de ambientes
+* Segurança com OAuth2
+* TDD
+* Deploy
 
 ## Aplicação
 ![image](https://user-images.githubusercontent.com/1513309/217244900-f19e52e0-8b61-4d5b-94a4-3b7b1c0295d7.png)
