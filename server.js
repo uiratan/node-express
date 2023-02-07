@@ -1,9 +1,9 @@
 import app from './src/app.js'
 
-let PORT = process.env.PORT || 3000;
+let port = process.env.PORT || 3000;
 
-console.log(PORT);
+console.log(port);
 
-app.listen(PORT, async () => { 
-    console.log(`Servidor escutando em http://localhost:${PORT}`);
+app.listen(port, async () => { 
+    console.log(`Servidor escutando em http://localhost:${port}`);
 })
