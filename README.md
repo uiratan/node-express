@@ -1,4 +1,6 @@
-### Tópicos 
+# JavaScript REST API <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+
+## Tópicos 
 
 - [Descrição do Projeto](#descrição-do-projeto)
 
@@ -15,8 +17,6 @@
 - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
 
 - [Time](#time)
-
-# :memo: JavaScript REST API <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 
 ## Descrição do Projeto
 API REST de uma livraria desenvolvida como parte da Formação <a href="https://cursos.alura.com.br/formacao-node-js-express">Node.js com Express da Alura</a>, utilizando Node.js com Express para gerenciamento de rotas e MongoDB como banco de dados em nuvem.
