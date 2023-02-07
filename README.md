@@ -1,15 +1,17 @@
 # :memo: JavaScript REST API <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-API REST de uma livraria desenvolvido em Node.js com Express para gerenciamento das rotas e MongoDB como banco de dados em nuvem.
 
-Funcionalidades:
-* CRUD de Autores e Livros
-* Ao projeto original adicionei a documentação da API com Swagger, acessada via <url-do-projeto>/api-docs
+## Descrição
+API REST de uma livraria desenvolvida como parte da Formação <a href="https://cursos.alura.com.br/formacao-node-js-express">Node.js com Express da Alura</a>, utilizando Node.js com Express para gerenciamento de rotas e MongoDB como banco de dados em nuvem.
 
-Formação: <a href="https://cursos.alura.com.br/formacao-node-js-express">Node.js com Express da Alura</a><br>
 Curso: <a href="https://cursos.alura.com.br/course/nodejs-api-rest-express-mongodb">Node.js: API Rest com Express e MongoDB</a><br>
 Intrutora: <a href="https://cursos.alura.com.br/user/jacqueline-r-oliveira">Jacqueline Oliveira</a>
 
-# Tech Stack
+## Funcionalidades:
+* CRUD de Autores e Livros
+* Documentação da API via Swagger
+* Ao projeto original adicionei a documentação da API com Swagger, acessada via <url-do-projeto>/api-docs
+
+## Tech Stack
 VSCode
   | 
   NPM 
