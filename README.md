@@ -1,21 +1,22 @@
-# Índice 
+### Tópicos 
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+- [Descrição do Projeto](#descrição-do-projeto)
+
+- [Funcionalidades](#funcionalidades)
+
+- [Aplicação](#aplicação)
+
+- [Ferramentas utilizadas](#ferramentas-utilizadas)
+
+- [Acesso ao projeto](#acesso-ao-projeto)
+
+- [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto)
+
+- [Desenvolvedores](#desenvolvedores)
 
 # :memo: JavaScript REST API <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 
-## Descrição
+## Descrição do Projeto
 API REST de uma livraria desenvolvida como parte da Formação <a href="https://cursos.alura.com.br/formacao-node-js-express">Node.js com Express da Alura</a>, utilizando Node.js com Express para gerenciamento de rotas e MongoDB como banco de dados em nuvem.
 
 Curso: <a href="https://cursos.alura.com.br/course/nodejs-api-rest-express-mongodb">Node.js: API Rest com Express e MongoDB</a><br>
