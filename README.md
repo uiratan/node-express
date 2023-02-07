@@ -7,12 +7,7 @@ Funcionalidades:
 
 Formação: <a href="https://cursos.alura.com.br/formacao-node-js-express">Node.js com Express da Alura</a><br>
 Curso: <a href="https://cursos.alura.com.br/course/nodejs-api-rest-express-mongodb">Node.js: API Rest com Express e MongoDB</a><br>
-Professora: Jacqueline Oliveira
-
-
-
-
-
+Intrutora: <a href="https://cursos.alura.com.br/user/jacqueline-r-oliveira">Jacqueline Oliveira</a>
 
 # Tech Stack
 VSCode
