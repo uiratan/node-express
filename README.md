@@ -25,7 +25,7 @@ API REST de uma livraria desenvolvida como parte da Formação <a href="https://
 ## Funcionalidades
 - [x] CRUD de Autores e Livros. <br>
 - [x]  Documentação da API via Swagger em <url-do-projeto>/api-docs
-- [ ] Acessar MongoDB via variáveis de ambientes
+- [x] Acessar MongoDB via variáveis de ambientes
 - [ ] Segurança com OAuth2
 - [ ] TDD
 - [x] Deploy
@@ -53,6 +53,11 @@ Após baixar o projeto e extraí-lo, execute pelo terminal na pasta gerada:
 Instalar as dependências do projeto.
 ```shell
   npm install
+```  
+
+Criar o arquivo .env na raiz do projeto e definir sua conexão com o banco de dados.
+```shell
+  MONGO_URI='string de conexao ao mongo'
 ```  
 
 Gerar documentação do swagger e rodar projeto.
