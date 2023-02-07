@@ -6,7 +6,7 @@
 
 - [Aplicação](#aplicação)
 
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
+- [Tech Stack](#tech-stack)
 
 - [Acesso ao projeto](#acesso-ao-projeto)
 
@@ -19,15 +19,19 @@
 ## Descrição do Projeto
 API REST de uma livraria desenvolvida como parte da Formação <a href="https://cursos.alura.com.br/formacao-node-js-express">Node.js com Express da Alura</a>, utilizando Node.js com Express para gerenciamento de rotas e MongoDB como banco de dados em nuvem.
 
-Curso: <a href="https://cursos.alura.com.br/course/nodejs-api-rest-express-mongodb">Node.js: API Rest com Express e MongoDB</a><br>
-Intrutora: <a href="https://cursos.alura.com.br/user/jacqueline-r-oliveira">Jacqueline Oliveira</a>
+`Curso`: <a href="https://cursos.alura.com.br/course/nodejs-api-rest-express-mongodb">Node.js: API Rest com Express e MongoDB</a><br>
+`Intrutora`: <a href="https://cursos.alura.com.br/user/jacqueline-r-oliveira">Jacqueline Oliveira</a>
 
 ## Funcionalidades:
-* CRUD de Autores e Livros
-* Documentação da API via Swagger
-* Ao projeto original adicionei a documentação da API com Swagger, acessada via <url-do-projeto>/api-docs
+:heavy_check_mark: CRUD de Autores e Livros. <br>
+:heavy_check_mark:  Documentação da API via Swagger em <url-do-projeto>/api-docs
+
+  
+## Aplicação
+![image](https://user-images.githubusercontent.com/1513309/217244900-f19e52e0-8b61-4d5b-94a4-3b7b1c0295d7.png)
 
 ## Tech Stack
+<p align="center">
 VSCode
   | 
   NPM 
@@ -70,3 +74,9 @@ VSCode
   <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 
   <img height="45" src="https://www.opc-router.de/wp-content/uploads/2020/08/what-is-json_600x250px.jpg" />
+  </p>
+
+## Acesso ao projeto
+
+Você pode [acessar o código fonte do projeto](https://github.com/uiratan/node-express) ou [baixá-lo](https://github.com/uiratan/node-express/archive/refs/heads/main.zip).
+
