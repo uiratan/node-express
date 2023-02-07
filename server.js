@@ -1,11 +1,11 @@
 import app from './src/app.js'
 
-//const port = 3000;
+let port = process.env.PORT;
+if (port == null || port == "") {
+  port = 3000;
+}
+app.listen(port);
 
-// app.listen(port, async () => { 
-//    console.log(`Servidor escutando em http://localhost:${port}`)
-// })
-
-app.listen(async () => { 
-   console.log("Servidor rodando");
+app.listen(port, async () => { 
+    console.log(`Servidor escutando em http://localhost:${port}`);
 })
