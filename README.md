@@ -39,7 +39,9 @@ VSCode    | NPM     | Nodemon   | JavaScript | NodeJS | Express | MongoDB | Mong
 </p>
 
 ## Acesso ao projeto
-Você pode [acessar o código fonte do projeto](https://github.com/uiratan/node-express) ou [baixá-lo](https://github.com/uiratan/node-express/archive/refs/heads/main.zip).
+[Projeto rodando (Deploy)](https://infinite-depths-15472.herokuapp.com/api-docs/)<br>
+[Código fonte](https://github.com/uiratan/node-express)<br>
+[Baixar zip](https://github.com/uiratan/node-express/archive/refs/heads/main.zip)
 
 ## Requisitos
 * Node
