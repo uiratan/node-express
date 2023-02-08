@@ -34,21 +34,6 @@ API REST de uma livraria desenvolvida como parte da Formação <a href="https://
 ## Tecnologias
 <p align="center">
 
-<<<<<<< HEAD
-Tecnologia | Link | :------:
-VSCode    | <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> | :------:
-NPM     | 
-Nodemon   | 
-JavaScript | 
-NodeJS | 
-Express | 
-MongoDB | 
-Mongoose | 
-Swagger  | 
-Git       | 
-JSON | 
-Dotenv
-=======
 Tecnologia | Link 
 -- | --
  VSCode    | <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> 
@@ -65,7 +50,7 @@ JSON | <img height="45" src="https://www.opc-router.de/wp-content/uploads/2020/0
 Dotenv | <img height="45" src="https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.svg" /> 
 
 <p>
->>>>>>> refs/remotes/origin/main
+
 
 
 ## Acesso ao projeto
