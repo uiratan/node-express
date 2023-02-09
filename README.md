@@ -26,10 +26,13 @@ API REST de uma livraria desenvolvida como parte da Formação <a href="https://
 - [x] CRUD de Autores e Livros. <br>
 - [x]  Documentação da API via Swagger em <url-do-projeto>/api-docs
 - [x] Acessar MongoDB via variáveis de ambientes
+- [x] Deploy
 - [ ] Segurança com OAuth2
 - [ ] TDD
 - [ ] Migrations  
-- [x] Deploy
+- [ ] CI
+- [ ] CD
+
 
 ## Tecnologias
 <p align="center">
