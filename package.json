@@ -6,9 +6,9 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon server.js --trace-deprecation",
-    "heroku": "node server.js",
-    "s": "node swagger.js"
+    "dev-old": "node server.json",
+    "dev-old2": "nodemon server.js --trace-deprecation",
+    "dev": "nodemon swagger.js"
   },
   "keywords": [],
   "author": "",
@@ -22,5 +22,8 @@
     "mongoose": "^6.9.0",
     "swagger-ui-express": "^4.6.0",
     "swagger-autogen": "^2.23.0"
+  },
+  "nodemonConfig": {
+    "ignore": ["swagger-output.json"]
   }
 }
