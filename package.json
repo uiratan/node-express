@@ -8,7 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev-old": "node server.json",
     "dev-old2": "nodemon server.js --trace-deprecation",
-    "dev": "nodemon swagger.js"
+    "dev": "nodemon swagger.js",
+    "heroku": "node swagger.js"
   },
   "keywords": [],
   "author": "",
